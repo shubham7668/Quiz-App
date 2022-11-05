@@ -1,3 +1,3 @@
 # Quiz-App
 
-Quiz app using Nodejs & MongoDb
+Quiz app using Nodejs
